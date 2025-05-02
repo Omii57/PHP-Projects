@@ -1,2 +1,1 @@
-# PHP-Project
-Vehicle Parking System using PHP and MySQL.
+# Vehicle Parking System using PHP and MySQL.
